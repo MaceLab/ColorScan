@@ -44,7 +44,7 @@ ENTER = 13
 ESC = 27
 TAB = 9
 
-sizeFudge = 30 #Number of pixels to decrease the size of the displayed image by to avoid overlapping borders
+sizeFudge = 0 #Number of pixels to decrease the size of the displayed image by to avoid overlapping borders
 
 
 INVALID_PRESET_NUM = -999999 #A number that will (hopefully) never show up in a valid preset
